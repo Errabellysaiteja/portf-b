@@ -7,9 +7,9 @@ export const myProjects = [
     subDescription: [
       "SurgeryXP is a mobile-first, Reddit-style web platform designed to help users review and discuss surgical procedures. I developed this platform from the ground up using React for the frontend, Node.js for the backend, and MySQL for data storage — all hosted on AWS for scalability and reliability.",
     ],
-    href: "",
+    href: "https://surgeryxp.com/",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/prj1.png.png",
     tags: [
       {
         id: 1,
@@ -43,28 +43,24 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/prj-12.jpg",
     tags: [
       {
         id: 1,
-        name: "Auth0",
-        path: "/assets/logos/auth0.svg",
+        name: "Android SDK",
+        path: "/assets/logos/Android Studio.png",
       },
       {
         id: 2,
-        name: "React",
-        path: "/assets/logos/react.svg",
+        name: "Kotlin",
+        path: "/assets/logos/Kotlin.png",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "Tensorflow",
+        path: "/assets/logos/TensorFlow.png",
       },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
+
     ],
   },
   {
@@ -77,28 +73,24 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/projects/prj-22.jpg",
     tags: [
       {
         id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        name: "Kotlin",
+        path: "/assets/logos/Kotlin.png",
       },
       {
         id: 2,
-        name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
+        name: "FireBase ML kit",
+        path: "/assets/logos/Firebase.png",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "XML",
+        path: "/assets/logos/XML.png",
       },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
+
     ],
   },
   {
@@ -111,17 +103,17 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/assets/projects/prj-15.jpg",
     tags: [
       {
         id: 1,
-        name: "C++",
-        path: "/assets/logos/cplusplus.svg",
+        name: "Python",
+        path: "/assets/logos/Python.jpg",
       },
       {
         id: 2,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "react",
+        path: "/assets/logos/React.png",
       },
       {
         id: 3,
@@ -145,27 +137,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/prj-16.jpg",
     tags: [
       {
         id: 1,
-        name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
+        name: "Kotlin",
+        path: "/assets/logos/Kotlin.png",
       },
       {
         id: 2,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        name: "Firebase Analytics",
+        path: "/assets/logos/Firebase.png",
       },
       {
         id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
+        name: "Android SDK",
+        path: "/assets/logos/Android Studio.png",
       },
       {
         id: 4,
-        name: "Vite.js",
-        path: "/assets/logos/vitejs.svg",
+        name: "SQL",
+        path: "/assets/logos/Azure SQL Database",
       },
     ],
   },
@@ -213,7 +205,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "https://wa.me/+17034081310",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
@@ -223,7 +215,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "",
+    href: "https://www.instagram.com/raobhanutejaerrabelly/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
