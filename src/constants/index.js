@@ -1,14 +1,11 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "SurgeryXP — Surgery Review Platform : SurgeryXP",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "SurgeryXP is a mobile-first, Reddit-style web platform designed to help users review and discuss surgical procedures. I developed this platform from the ground up using React for the frontend, Node.js for the backend, and MySQL for data storage — all hosted on AWS for scalability and reliability.",
     ],
     href: "",
     logo: "",
@@ -16,36 +13,33 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "Node.js",
+        path: "/assets/logos/Node.js.png",
       },
       {
         id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
+        name: "AWS",
+        path: "/assets/logos/AWS.png",
       },
       {
         id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
+        name: "SQL",
+        path: "/assets/logos/Azure SQL Database.png",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "React",
+        path: "/assets/logos/React.png",
       },
     ],
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "3D Motion Image Editor App",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+      "Developed a real-time Android application that allows users to manipulate motion in images using live camera input and machine learning models. The app enables users to create dynamic, visually enhanced photos by detecting and editing motion vectors on the fly.",
     ],
     href: "",
     logo: "",
@@ -75,14 +69,11 @@ export const myProjects = [
   },
   {
     id: 3,
-    title: "Blazor Web App",
+    title: "AI-powered OCR CamScan App",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
-      "Implemented API interactions using .NET Core for a robust backend.",
-      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
-      "Integrated SQLite for efficient client-side database storage.",
+      "Built an intelligent document scanning app that uses Optical Character Recognition (OCR) to extract text from images in real time. The app supports offline functionality and multiple languages, making it a versatile tool for everyday document digitization.",
     ],
     href: "",
     logo: "",
@@ -112,14 +103,11 @@ export const myProjects = [
   },
   {
     id: 4,
-    title: "C++ Game Engine",
+    title: "AI Chatbot for Customer Support",
     description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
+      "",
     subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
+      "Developed an intelligent customer support chatbot designed to handle common queries and reduce manual support load. The chatbot was trained on a dataset of FAQs and integrated with backend systems to fetch real-time data when needed.",
     ],
     href: "",
     logo: "",
@@ -149,14 +137,11 @@ export const myProjects = [
   },
   {
     id: 5,
-    title: "WordPress Custom Theme",
+    title: "Kids Play App (Children Game)",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
-      "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
+      "Designed and developed an educational Android game tailored for children, focusing on fun learning through interactive gameplay. The app ensures a safe and engaging environment for kids while complying with privacy standards like GDPR.",
     ],
     href: "",
     logo: "",
@@ -184,6 +169,7 @@ export const myProjects = [
       },
     ],
   },
+  /*
   {
     id: 6,
     title: "Online Learning Platform",
@@ -221,6 +207,7 @@ export const myProjects = [
       },
     ],
   },
+  */
 ];
 
 export const mySocials = [
@@ -231,7 +218,7 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "",
+    href: "https://www.linkedin.com/in/bhanutejaerrabelly/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
@@ -243,36 +230,36 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Mobile and Web Developer",
+    job: "Kprise",
+    date: "Jan 2024 - Present",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Designed and implemented scalable frontend architecture using React with modular components.",
+      "Collaborated with cross-functional teams to ensure UI/UX consistency across devices and browsers.",
+      "Integrated performance enhancements such as API caching, compression, and optimized state handling.",
+      "Contributed to clean, maintainable code and agile development workflows.",
+      "",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: " Enterprise Mobile App Developer",
+    job: "Liteapps.NYC ",
+    date: "Apr 2019 - Jan 2024",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Led Android development using Kotlin, Java, and modern Android architecture components.",
+      "Built and maintained CI/CD pipelines using GitHub Actions and Jenkins for rapid and stable releases.",
+      "Integrated crash reporting, analytics, and monitoring tools like Crashlytics and Firebase Performance.",
+      "Focused on modular codebases, performance tuning, and long-term maintainability.",
+      "",
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
+    title: "Software Development Intern",
+    job: "Softwayz IT Solutions",
+    date: "Oct 2018 - Apr 2019",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Worked on web and mobile integrations using React, Firebase, and REST APIs.",
+      "Improved app startup time and memory footprint through code refactoring and optimization.",
     ],
   },
 ];

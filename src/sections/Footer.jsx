@@ -15,7 +15,7 @@ const Footer = () => {
                     </a>
                 ))}
             </div>
-            <p>© 2025.Bh</p>
+            <p>© 2025.Bhanu teja</p>
         </section>
     );
 };

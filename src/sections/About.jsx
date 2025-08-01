@@ -17,10 +17,9 @@ const About = () => {
                         className="absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5]"
                     />
                     <div className="z-10">
-                        <p className="headtext">Hi, I'm Bhanu t</p>
+                        <p className="headtext">Hi, I'm Bhanu teja Errabelly</p>
                         <p className="subtext">
-                            Over the last 4 years, I developed my frontend and backend dev
-                            skills to deliver dynamic and software and web applications.
+                            A passionate Mobile and Web Developer with hands-on experience in building scalable and performant applications across Android, iOS, and web platforms. Over the past few years, I’ve worked on diverse projects ranging from enterprise-grade apps to innovative AI-powered tools, contributing to the entire development cycle — from architecture to deployment.
                         </p>
                     </div>
                     <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -36,27 +35,27 @@ const About = () => {
                         </p>
                         <Card
                             style={{ rotate: "75deg", top: "30%", left: "20%" }}
-                            text="GRASP"
+                            text="Python"
                             containerRef={grid2Container}
                         />
                         <Card
                             style={{ rotate: "-30deg", top: "60%", left: "45%" }}
-                            text="SOLID"
+                            text="Javascript"
                             containerRef={grid2Container}
                         />
                         <Card
                             style={{ rotate: "90deg", bottom: "30%", left: "70%" }}
-                            text="Design Patterns"
+                            text="AWS"
                             containerRef={grid2Container}
                         />
                         <Card
                             style={{ rotate: "-45deg", top: "55%", left: "0%" }}
-                            text="Design Principles"
+                            text="CI/CD"
                             containerRef={grid2Container}
                         />
                         <Card
                             style={{ rotate: "20deg", top: "10%", left: "38%" }}
-                            text="SRP"
+                            text="MYSQL"
                             containerRef={grid2Container}
                         />
                         <Card
